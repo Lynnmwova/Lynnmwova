@@ -28,7 +28,7 @@ I am a Techie <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
 
 - :alien: Exploring Computer Networking 
 
-- :zap: I love stargazing, cooking and my cat
+- :heart hands: I love stargazing, cooking and my cat
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-pauline-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pauline-mwova/)
 
