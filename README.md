@@ -26,7 +26,7 @@ I am a Techie <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
 
 - :telescope: I’m a student learning and contributing to frontend web development
 
-- :seedling: Exploring Computer Networking 
+- :alien: Exploring Computer Networking 
 
 - :zap: I love stargazing, cooking and my cat
 
