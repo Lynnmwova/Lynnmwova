@@ -1,6 +1,6 @@
 <!-- girl GIF -->
 <div id="header" align="center">
-  <img src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif width="200"/>
+  <img src=https://tenor.com/view/galaxy-cosmic-girl-planets-wink-universe-gif-15783688 width="200"/>
 </div>
 <!-- socials -->
 <div id="badges">
