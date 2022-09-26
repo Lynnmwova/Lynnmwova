@@ -4,15 +4,13 @@
 </div>
 <!-- socials -->
 <div id="badges">
-  <a href="https://www.linkedin.com/in/marlyn-mayienga/">
+  <a href="https://www.linkedin.com/in/pauline-mwova/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/M_ayienga">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
 </div>
 <h1>
-  Hey There
+  Hi ya!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <!-- about me -->
@@ -24,15 +22,15 @@
 
 ### :woman_technologist: About Me :
 
-I am a Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi,Kenya.
+I am a Techie <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi,Kenya.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a student learning and contributing to frontend web development
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Computer Networking 
 
-- :zap: In my free time, I like to hike, swim and discover new things. Call me a curious-cat
+- :zap: I love stargazing, cooking and my cat
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-merlin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marlyn-mayienga/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-merlin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pauline-mwova/)
 
 ---
 
@@ -43,13 +41,13 @@ I am a Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Git" width="40" height="40"/>&nbsp; 
-</div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" **alt="Tailwind" width="40" height="40"/>&nbsp;
+           
+  </div>
 
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marlyn-Mayienga&layout=compact&theme=vision-friendly-dark)](https://github.com/Marlyn-Mayienga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnmwova&layout=compact&theme=vision-friendly-dark)](https://github.com/Lynnmwova/github-readme-stats)
 
 ---
