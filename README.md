@@ -24,7 +24,7 @@
 
 I am a Techie <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi,Kenya.
 
-- :rocket: I’m a student learning and contributing to frontend web development
+- :rocket:Learning and contributing to Front-End Web development
 
 - :alien: Exploring Computer Networking 
 
