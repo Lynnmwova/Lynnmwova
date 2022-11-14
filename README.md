@@ -42,9 +42,7 @@ I am a Techie <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Git" width="40" height="40"/>&nbsp;
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SCSS" **alt="sass" width="40" height="40" />&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
+  
                 
 
 </div>
