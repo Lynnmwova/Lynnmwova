@@ -14,8 +14,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <!-- about me -->
-<div align="center">
-  <img src="hollo.jpg" width="600" height="300"/>
+<div align ="center">
+  <img src="Miroodles - Color Comp.png" width="600" height="300"/>
 </div>
 
 ---
