@@ -15,7 +15,7 @@
 </h1>
 <!-- about me -->
 <div align ="center">
-  <img src="Miroodles - Color Comp.png" width="300" height="600"/>
+  <img src="avtr.png" width="600" height="300"/>
 </div>
 
 ---
