@@ -15,7 +15,7 @@
 </h1>
 <!-- about me -->
 <div align ="center">
-  <img src="avtr.png" width="600" height="300"/>
+  <img src="avtr.png"/>
 </div>
 
 ---
