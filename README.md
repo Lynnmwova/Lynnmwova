@@ -11,11 +11,11 @@
 </div>
 <h1>
   Hello there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=""/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <!-- about me -->
 <div align ="center">
-  <img src="Miroodles - Color Comp.png" width="600" height="300"/>
+  <img src="Miroodles - Color Comp.png" />
 </div>
 
 ---
