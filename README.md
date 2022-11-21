@@ -42,7 +42,9 @@ I am a Techie <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
   <img src="git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="github-original.svg" title="Github" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="bootstrap-plain-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/> &nbsp;
-  <img src="sass-original.svg" title="sass" alt="sass" width="40" height="40"/> &nbsp;                 
+  <img src="sass-original.svg" title="sass" alt="sass" width="40" height="40"/> &nbsp;   
+  <img src="react-original.svg" title="React" alt="react" width="40" height="40"/> &nbsp;                 
+              
 
 </div>
 
