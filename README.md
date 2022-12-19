@@ -51,8 +51,8 @@ I am a Techie <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
 ---
 
 ### :fire: My Stats :
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnmwova&layout=compact&theme=vision-friendly-dark)](https://github.com/Lynnmwova/github-readme-stats)  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnmwova&layout=compact&theme=vision-friendly-dark)](https://github.com/Lynnmwova/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnmwova&layout=compact&theme=vision-friendly-dark)](https://github.com/Lynnmwova/github-readme-stats)
+
  
 ---
