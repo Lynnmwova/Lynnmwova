@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a budding dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi,Kenya.
+I am a budding dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
 
 - :rocket:Learning and contributing to Front-End Web development
 
