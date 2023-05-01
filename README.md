@@ -43,7 +43,21 @@ I am a budding dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="github-original.svg" title="Github" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="bootstrap-plain-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/> &nbsp;
   <img src="sass-original.svg" title="sass" alt="sass" width="40" height="40"/> &nbsp;   
-  <img src="react-original.svg" title="React" alt="react" width="40" height="40"/> &nbsp;                 
+  <img src="react-original.svg" title="React" alt="react" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS code" alt="VS code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" title="Devicon" alt="Devicon" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="40" height="40" />
+          
+                   
+          
+          
+          
+          
+                           
               
 
 </div>
