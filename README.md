@@ -1,7 +1,4 @@
-<!-- girl GIF -->
-<!--<div id="header" align="center">
-   <img src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif width="200
-</div> -->
+
 <!-- socials -->
 <div id="badges">
   <a href="https://www.linkedin.com/in/pauline-mwova/">
@@ -60,13 +57,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnmwova" />
 </a>
 
-<!--
-### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnmwova&layout=compact&theme=vision-friendly-dark)](https://github.com/Lynnmwova/github-readme-stats) 
-
-
-<h3 align="left"> ⚡ My Streaks :</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lynnmwova&theme=dark" alt="Lynnmwova" /></p>
- -->
 ---
