@@ -11,12 +11,12 @@
 </div>
 <h1 align="left">
   Hello there! I'm Pauline!
-  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-  <iframe src="https://giphy.com/embed/pOZhmE42D1WrCWATLK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-work-job-pOZhmE42D1WrCWATLK">via GIPHY</a></p>
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
 <!-- about me --> 
 <div align ="center">
-  <img src="avtr.png"/>
+   <!--<img src="avtr.png"/> -->
+![working](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM1YTNiNDEzZDIyZTc1Y2M3MWU3YmU4Yzk5NTgyYzM0ZmY3MWUzNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/pOZhmE42D1WrCWATLK/giphy.gif)
 </div>
 
 ---
