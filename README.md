@@ -19,21 +19,15 @@
 </div>
 
 ---
-<!--
+
 ### :woman_technologist: About Me :
 
 I am a budding dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
 
-- :rocket:Learning and contributing to Front-End Web development
+- :rocket:Learning and contributing to Frontend Web development
+- :alien: Exploring Reactjs and UI/UX 
+- :envelope with arrow: Mail me! _paulinemwova@gmail.com_
 
-- :alien: Exploring React.js
-
-- :mushroom: I love stargazing, cooking and my cat
-
-- :collision: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-pauline-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pauline-mwova/)
-
----
--->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
