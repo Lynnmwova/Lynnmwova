@@ -13,7 +13,7 @@
   Hello there! I'm Pauline!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<!-- about me 
+<!-- about me -->
 <div align ="center">
   <img src="avtr.png"/>
 </div>
