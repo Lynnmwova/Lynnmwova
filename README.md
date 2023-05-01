@@ -13,11 +13,11 @@
   Hello there! I'm Pauline!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<!-- about me -->
+<!-- about me 
 <div align ="center">
   <img src="avtr.png"/>
 </div>
-
+-->
 ---
 
 ### :woman_technologist: About Me :
@@ -26,7 +26,7 @@ I am a budding dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 - :rocket:Learning and contributing to Frontend Web development
 - :alien: Exploring Reactjs and UI/UX 
-- :envelope with arrow: Mail me! _paulinemwova@gmail.com_
+- :envelope: Mail me! _paulinemwova@gmail.com_
 
 
 ### :hammer_and_wrench: Languages and Tools :
