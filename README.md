@@ -9,8 +9,8 @@
   </a>
 
 </div>
-<h1>
-  Hello there!
+<h1 align="center">
+  Hello there! I'm Pauline!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <!-- about me -->
@@ -54,5 +54,7 @@ I am a budding dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnmwova&layout=compact&theme=vision-friendly-dark)](https://github.com/Lynnmwova/github-readme-stats) 
 
 
+<h3 align="left"> ⚡ My Streaks :</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lynnmwova&theme=dark" alt="Lynnmwova" /></p>
  
 ---
