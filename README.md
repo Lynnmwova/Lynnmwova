@@ -9,17 +9,17 @@
   </a>
 
 </div>
-<h1 align="center">
+<h1 align="left">
   Hello there! I'm Pauline!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<!-- about me 
+<!-- about me --> 
 <div align ="center">
   <img src="avtr.png"/>
 </div>
--->
----
 
+---
+<!--
 ### :woman_technologist: About Me :
 
 I am a budding dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
@@ -28,7 +28,7 @@ I am a budding dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - :alien: Exploring Reactjs and UI/UX 
 - :envelope: Mail me! _paulinemwova@gmail.com_
 
-
+-->
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
