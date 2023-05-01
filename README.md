@@ -13,13 +13,13 @@
   Hello there! I'm Pauline!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<!-- about me -->
+<!-- about me 
 <div align ="center">
   <img src="avtr.png"/>
 </div>
 
 ---
-
+<!--
 ### :woman_technologist: About Me :
 
 I am a budding dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
@@ -33,6 +33,7 @@ I am a budding dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - :collision: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-pauline-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pauline-mwova/)
 
 ---
+-->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -51,6 +52,7 @@ I am a budding dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" title="firefox" alt="firefox" width="40" height="40" />
           
                    
           
