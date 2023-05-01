@@ -21,16 +21,6 @@
 </div>
 
 ---
-<!--
-### :woman_technologist: About Me :
-
-I am a budding dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
-
-- :rocket:Learning and contributing to Frontend Web development
-- :alien: Exploring Reactjs and UI/UX 
-- :envelope: Mail me! _paulinemwova@gmail.com_
-
--->
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -61,12 +51,22 @@ I am a budding dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 </div>
 
 ---
+## My GitHub Stats 📊
 
+<a href="https://github.com/Lynnmwova/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Lynnmwova&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/Lynnmwova/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnmwova" />
+</a>
+
+<!--
 ### :fire: My Stats :
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnmwova&layout=compact&theme=vision-friendly-dark)](https://github.com/Lynnmwova/github-readme-stats) 
 
 
 <h3 align="left"> ⚡ My Streaks :</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lynnmwova&theme=dark" alt="Lynnmwova" /></p>
- 
+ -->
 ---
