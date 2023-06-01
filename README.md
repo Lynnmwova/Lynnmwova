@@ -1,4 +1,3 @@
-
 <!-- socials -->
 <div id="badges">
   <a href="https://www.linkedin.com/in/pauline-mwova/">
@@ -11,13 +10,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<!-- about me --> 
+<!-- about me -->
 <div align ="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM1YTNiNDEzZDIyZTc1Y2M3MWU3YmU4Yzk5NTgyYzM0ZmY3MWUzNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/pOZhmE42D1WrCWATLK/giphy.gif" padding="2rem"/>
 
 </div>
 
 ---
+
 <h2 style="color:#DAA520;">⚡Languages and Tools</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -36,18 +36,12 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" title="firefox" alt="firefox" width="40" height="40" />
-          
-                   
-          
-          
-          
-          
-                           
-              
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="materialui" alt="materialu1i" width="40" height="40"  />
+               
 </div>
 
 ---
+
 <h2 style="color:#DAA520;"> My GitHub Stats 📊 </h2>
 
 <a href="https://github.com/Lynnmwova/github-readme-stats">
@@ -56,6 +50,5 @@
 <a href="https://github.com/Lynnmwova/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnmwova" />
 </a>
-
 
 ---
